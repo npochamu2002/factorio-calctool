@@ -1,3 +1,10 @@
+## 🔽 ダウンロード
+
+➡️ [最新バージョンをダウンロードする](https://github.com/npochamu2002/factorio-calctool/releases/latest)
+
+ZIPを解凍して `main.exe` を実行するだけでツールを使えます。  
+（`data.json` や `machine.json` も同じフォルダに入れてください）
+
 このツールはFactorioのレシピデータをもとに、指定したアイテムの毎分要求個数から必要な設備台数を計算し、材料の生産チェーンを階層的に表示します。
 GUIで操作でき、設備の手動選択や生産詳細のデバッグ表示も可能です。
 
