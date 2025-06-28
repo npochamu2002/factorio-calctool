@@ -1,0 +1,22 @@
+レシピ(data.json)
+{
+  "iron-gear-wheel": {
+    "category": "crafting",
+    "ingredients": [["iron-plate", 2]],
+    "result_count": 1,
+    "time": 0.5
+  }
+}
+
+設備(machine.json)
+{
+  "crafting": {
+    "assembling-machine-1": 0.5,
+    "assembling-machine-2": 0.75,
+    "assembling-machine-3": 1.25
+  },
+  "smelting": {
+    "stone-furnace": 1.0,
+    "steel-furnace": 2.0
+  }
+}
