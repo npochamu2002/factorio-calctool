@@ -1,0 +1,41 @@
+{
+  "crafting": {
+    "assembling-machine-1": { "speed": 0.5 },
+    "assembling-machine-2": { "speed": 0.75 },
+    "assembling-machine-3": { "speed": 1.25 }
+  },
+  "advanced-crafting": {
+    "assembling-machine-2": { "speed": 0.75 },
+    "assembling-machine-3": { "speed": 1.25 }
+  },
+  "crafting-with-fluid": {
+    "assembling-machine-2": { "speed": 0.75 },
+    "assembling-machine-3": { "speed": 1.25 }
+  },
+  "smelting": {
+    "stone-furnace": { "speed": 1.0 },
+    "steel-furnace": { "speed": 2.0 },
+    "electric-furnace": { "speed": 2.0 }
+  },
+  "chemistry": {
+    "chemical-plant": { "speed": 1.25 }
+  },
+  "oil-processing": {
+    "oil-refinery": { "speed": 1.0 }
+  },
+  "centrifuging": {
+    "centrifuge": { "speed": 1.0 }
+  },
+  "rocket-building": {
+    "rocket-silo": { "speed": 1.0 }
+  },
+  "fluid-chemistry": {
+    "chemical-plant": { "speed": 1.25 }
+  },
+  "electrolysis": {
+    "electrolyzer": { "speed": 1.0 }
+  },
+  "liquifying": {
+    "chemical-plant": { "speed": 1.25 }
+  }
+}
